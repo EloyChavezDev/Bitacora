@@ -3,7 +3,7 @@ title: 'The Duke of Death and His Maid'
 progress: 'Complete'
 description: 'How can you fall in love when you can’t even hold hands? Due to a childhood curse, anything that the Duke touches will die—which makes his flirty maid’s behavior all the more shocking!'
 pubDate: '2022-01-01T20:27:34.123Z'
-heroImage: '/The Duke of Death and His Maid'
+heroImage: '/The Duke of Death and His Maid.jpg'
 categories: ['Anime']
 tags: ['Crunchyroll']
 author: '["EloyChavezDev"]'
