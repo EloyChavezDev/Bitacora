@@ -1,6 +1,6 @@
 ---
 title: 'The Ancient Magus Bridge'
-progress: 'Progress 6/24'
+progress: '🟩🟨🟨🟨 Progress 6/24'
 description: 'Chise Hatori has lived a life full of neglect and abuse, devoid of anything resembling love. Far from the warmth of family, she has had her share of troubles and pitfalls.'
 pubDate: '2024-01-28T20:27:34.123Z'
 heroImage: '/The-Ancient-Magus-Bride.webp'
