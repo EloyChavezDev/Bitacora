@@ -1,6 +1,6 @@
 ---
 title: 'The Duke of Death and His Maid'
-progress: '🟩🟩🟨🟨 Progress 7/12'
+progress: '🟩🟩🟩🟩 Complete 12/12'
 description: 'The duke, full of love and kindness, treads carefully around every living being, be it a tender flower or his seductive maid, Alice Lendrott'
 pubDate: '2024-01-29T20:27:34.123Z'
 heroImage: '/The Duke of Death and His Maid 2.jpg'

@@ -1,6 +1,6 @@
 ---
 title: 'My Love Story with Yamada-kun at Lv999'
-progress: '🟩🟩🟩🟨 Progress 11/13'
+progress: '🟩🟩🟩🟩 Complete 13/13'
 description: 'Akane Kinoshita, a female college student, faces the absolute worst situation when she ends up breaking up with her boyfriend after he has an affair with a woman he met playing an online game.'
 pubDate: '2024-01-30T20:27:34.123Z'
 heroImage: '/MyLoveStorywithYamadakunatLv999.jpg'
