@@ -2,7 +2,7 @@
 title: 'Shangri-La Frontier'
 progress: '🟨🟨🟨🟨 Progress 1/25'
 description: 'When was the last time I played a game that wasn't crap?" This is a world in the near future where games that use display screens are classified as retro.'
-pubDate: '2024-01-30T20:27:34.123Z'
+pubDate: '2024-01-31T20:27:34.123Z'
 heroImage: '/Shangri-La-Frontier.jpg'
 categories: ['Anime']
 tags: ['Crunchyroll']
