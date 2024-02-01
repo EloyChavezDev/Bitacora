@@ -1,6 +1,6 @@
 ---
 title: 'Prevención de Ataques Informáticos'
-progress: '🟨🟨🟨🟨 Progress 2/15'
+progress: '🟩🟩🟩🟩 Complete 15/15'
 description: 'Este curso te proporcionará las herramientas y conocimientos prácticos necesarios para proteger tu información personal y profesional de ataques informáticos.'
 pubDate: '2024-01-31T20:27:34.123Z'
 heroImage: '/Prevención de Ataques Informaticos.png'
