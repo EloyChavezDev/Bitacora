@@ -1,6 +1,6 @@
 ---
 title: 'Shangri La Frontier'
-progress: '🟨🟨🟨🟨 Progress 1/25'
+progress: '🟨🟨🟨🟨 Progress 5/25'
 description: 'When was the last time I played a game that wasnt crap? This is a world in the near future where games that use display screens are classified as retro.'
 pubDate: '2024-01-31T20:27:34.123Z'
 heroImage: '/Shangri-La-Frontier.jpg'
