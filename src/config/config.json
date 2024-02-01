@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Bitacora EloyChavezDev ",
+    "title": "Bitacora EloyChavezDev",
     "base_url": "https://bitacora.eloychavez.dev/",
     "base_path": "/",
     "favicon": "/favicon.svg",
     "logoLight": "/logoLight.png",
     "logoDark": "/logoDark.png",
-    "lang": "en",
+    "lang": "es",
     "description": "Registro detallado de eventos, observaciones o experiencias de EloyChavezDev",
-    "pageSize": 6
+    "pageSize": 9
   },
   "features": {
     "youtube": true,
