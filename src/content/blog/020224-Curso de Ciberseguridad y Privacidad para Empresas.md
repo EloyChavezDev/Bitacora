@@ -1,6 +1,6 @@
 ---
 title: 'Ciberseguridad y Privacidad para Empresas'
-progress: '🟨🟨🟨🟨 Complete 2/26'
+progress: '🟩🟩🟩🟩 Complete 26/26'
 description: 'En este curso aprenderás los principales riesgos de ciberseguridad a los que se enfrentan las personas y las empresas.'
 pubDate: '2024-02-02T20:27:34.123Z'
 heroImage: '/Curso de Ciberseguridad y Privacidad para Empresas.png'
