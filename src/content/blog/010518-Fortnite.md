@@ -16,13 +16,13 @@ Hoy me embarco en la emocionante tarea de compartir con ustedes un vistazo detr�
 
 ### Panorama General de mi Desempeño
 
-![stadisticas 1](/public/stats1.PNG)
+![stadisticas 1](/stats1.PNG)
 
 En la primera imagen, echemos un vistazo a las estadísticas generales que resumen mi trayectoria en Fortnite. Desde el número total de partidas hasta el crucial porcentaje de victorias, estos números pintan un retrato de mi experiencia en el campo de batalla. Entre las cifras notables se encuentran mis horas de juego acumuladas, el número de victorias, mi K/D (razón de eliminaciones/muertes), y por supuesto, el total de eliminaciones a lo largo de mi travesía en Fortnite.
 
 ### Desglose por Modos de Juego
 
-![stadisticas 2](/public/stats2.PNG)
+![stadisticas 2](/stats2.PNG)
 
 En la segunda imagen, desgloso mis estadísticas por modos de juego. Desde la intensidad de las partidas en solitario hasta la coordinación necesaria en escuadrones, cada modo de juego ha dejado su huella en mis registros. Este desglose proporciona una visión más detallada de mi desempeño en solitario, dúos, tríos, escuadrones y los modos de tiempo limitado (LTM).
 
