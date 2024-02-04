@@ -5,7 +5,7 @@ description: 'The duke, full of love and kindness, treads carefully around every
 pubDate: '2024-01-29T20:27:34.123Z'
 heroImage: '/The Duke of Death and His Maid 2.jpg'
 categories: ['Anime']
-tags: ['Crunchyroll']
+tags: ['Crunchyroll','Complete']
 author: '["EloyChavezDev"]'
 ---
 The second season of Shinigami Bocchan to Kuro Maid.

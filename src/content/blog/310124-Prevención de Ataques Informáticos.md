@@ -5,7 +5,7 @@ description: 'Este curso te proporcionará las herramientas y conocimientos prá
 pubDate: '2024-01-31T20:27:34.123Z'
 heroImage: '/Prevención de Ataques Informaticos.png'
 categories: ['Cursos']
-tags: ['Platzi']
+tags: ['Platzi','Certificate']
 author: '["EloyChavezDev"]'
 ---
 Este curso te proporcionará las herramientas y conocimientos prácticos necesarios para proteger tu información personal y profesional de ataques informáticos. Es un curso esencial si trabajas por cuenta propia o si eres parte de una empresa. 

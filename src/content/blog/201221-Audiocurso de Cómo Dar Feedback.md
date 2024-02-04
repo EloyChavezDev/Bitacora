@@ -5,7 +5,7 @@ description: 'Aprende los principios y modelos que te permitirán estructurar un
 pubDate: '2021-12-21T20:27:34.123Z'
 heroImage: '/Audiocurso de Cómo Dar Feedback.png'
 categories: ['Cursos']
-tags: ['Platzi']
+tags: ['Platzi','Certificate']
 author: '["EloyChavezDev"]'
 ---
 Aprende los principios y modelos que te permitirán estructurar una conversación en la que debas entregar feedback para una persona, logrando dar tu mensaje de la forma más efectiva.
