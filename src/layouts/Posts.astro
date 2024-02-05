@@ -47,10 +47,11 @@ type PostType = {
             </a>
           )}
         </div>
+        <div class="flex items-center gap-x-4 text-xs text-zinc-900 dark:text-white">
         <FormattedDate date={post.data.pubDate} />
+      </div>
         <div class="flex items-center gap-x-4 text-xs text-zinc-900 dark:text-white">
           <h5 class="font-semibold">{post.data.progress}</h5> 
-          <FormattedDate date={post.data.pubDate} />
           {post.data.categories.slice(0, 2).map((item) => (
             <a
               href={`/categories/${slugify(item)}`}
