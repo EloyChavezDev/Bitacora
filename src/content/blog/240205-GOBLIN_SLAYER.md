@@ -1,6 +1,6 @@
 ---
 title: 'GOBLIN SLAYER'
-progress: '🟩🟨🟨🟨 Progress 3/13'
+progress: '🟩🟨🟨🟨 Progress 5/13'
 description: 'A young priestess has formed her first adventuring party, but almost immediately they find themselves in distress.'
 pubDate: '2024-02-05T20:27:34.123Z'
 heroImage: '/Goblin_Slayer.jpe'
