@@ -3,7 +3,7 @@ title: 'Intro to Offensive Security'
 progress: '🟩🟩🟩🟩 Complete 3/3'
 description: 'Hack your first website (legally in a safe environment) and experience an ethical hackers job.'
 pubDate: '2024-02-18T20:27:34.123Z'
-heroImage: '/intro-to-offensive-security.png'
+heroImage: '/Intro to Offensive Security.jpg'
 categories: ['Cursos']
 tags: ['Tryhackme','Complete']
 author: '["EloyChavezDev"]'
