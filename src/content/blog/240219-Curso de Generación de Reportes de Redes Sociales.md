@@ -2,7 +2,7 @@
 title: 'Curso de Generación de Reportes de Redes Sociales'
 progress: '🟨🟨🟨🟨 Progress 01/20'
 description: 'Estructura y automatiza tus reportes de redes sociales con Looker Studio.'
-pubDate: '2024-02-019T20:27:34.123Z'
+pubDate: '2024-02-19T20:27:34.123Z'
 heroImage: '/Curso de Generación de Reportes de Redes Sociales.png'
 categories: ['Cursos']
 tags: ['Platzi','Incomplete']
