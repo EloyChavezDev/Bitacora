@@ -1,7 +1,7 @@
 ---
 title: 'Krakens y Sirenas'
 progress: '🟨🟨🟨🟨 Incomplete'
-description: 'Comedia de acción sobre una tímida adolescente que descubre que forma parte de un legendario linaje real'
+description: 'Comedia de acción sobre una tímida adolescente que descubre que forma parte de un legendario linaje real.'
 pubDate: '2024-02-20T20:27:34.123Z'
 heroImage: '/KrakensYSirenas.jpg'
 categories: ['Movies']
