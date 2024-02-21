@@ -3,7 +3,7 @@ title: 'Linux Fundamentals Part 1'
 progress: '🟩🟩🟩🟩 Complete 9/9'
 description: 'Embark on the journey of learning the fundamentals of Linux.'
 pubDate: '2024-02-21T20:27:34.123Z'
-heroImage: '/Linux-Fundamentals.webp'
+heroImage: '/Linux_Fundamentals.webp'
 categories: ['Cursos']
 tags: ['Tryhackme','Complete']
 author: '["EloyChavezDev"]'
