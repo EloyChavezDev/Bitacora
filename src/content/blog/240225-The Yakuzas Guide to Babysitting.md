@@ -1,7 +1,7 @@
 ---
 title: 'The Yakuza's Guide to Babysitting'
 progress: '🟨🟨🟨🟨 Progress 1/28'
-description: 'Kirishima Tooru was accustomed to solving all problems through violence and was called “the Demon of Sakuragi.”'
+description: 'Kirishima Tooru was accustomed to solving all problems through violence and was called the Demon of Sakuragi.'
 pubDate: '2024-02-25T20:27:34.123Z'
 heroImage: '/The Yakuzas Guide to Babysitting.jpe'
 categories: ['Anime']
