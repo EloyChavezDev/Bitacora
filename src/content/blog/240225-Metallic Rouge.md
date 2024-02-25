@@ -2,7 +2,7 @@
 title: 'Metallic Rouge'
 progress: '🟨🟨🟨🟨 Progress 1/28'
 description: 'Metallic Rouge takes place in a a world where humans and androids coexist.'
-pubDate: '2024-02-25T20:27:34.123Z'
+pubDate: '2024-02-25T20:27:37.123Z'
 heroImage: '/Metallic Rouge.jpe'
 categories: ['Anime']
 tags: ['Crunchyroll','Incomplete']

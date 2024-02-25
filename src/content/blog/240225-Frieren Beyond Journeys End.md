@@ -2,7 +2,7 @@
 title: 'Frieren: Beyond Journey’s End'
 progress: '🟨🟨🟨🟨 Progress 1/28'
 description: 'The adventure is over but life goes on for an elf mage just beginning to learn what living is all about.'
-pubDate: '2024-02-25T20:27:34.123Z'
+pubDate: '2024-02-25T20:27:35.123Z'
 heroImage: '/Frieren Beyond Journeys End.jpe'
 categories: ['Anime']
 tags: ['Crunchyroll','Incomplete']

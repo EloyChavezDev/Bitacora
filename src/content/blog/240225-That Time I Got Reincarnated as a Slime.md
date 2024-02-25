@@ -2,7 +2,7 @@
 title: 'That Time I Got Reincarnated as a Slime'
 progress: '🟨🟨🟨🟨 Progress 1/28'
 description: 'Lonely thirty seven year old Satoru Mikami is stuck in a dead end job'
-pubDate: '2024-02-25T20:27:34.123Z'
+pubDate: '2024-02-25T20:27:36.123Z'
 heroImage: '/That Time I Got Reincarnated as a Slime.jpg'
 categories: ['Anime']
 tags: ['Crunchyroll','Incomplete']
