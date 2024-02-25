@@ -1,5 +1,5 @@
 ---
-title: 'Frieren: Beyond Journey’s End'
+title: 'Frieren: Beyond Journeys End'
 progress: '🟨🟨🟨🟨 Progress 1/28'
 description: 'The adventure is over but life goes on for an elf mage just beginning to learn what living is all about.'
 pubDate: '2024-02-25T20:27:35.123Z'
