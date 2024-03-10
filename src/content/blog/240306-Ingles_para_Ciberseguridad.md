@@ -1,11 +1,11 @@
 ---
 title: 'Inglés para Ciberseguridad'
-progress: '🟨🟨🟨🟨 Progress 00/??'
+progress: '🟩🟩🟩🟩 Complete 12/12'
 description: 'Domina el uso de términos de ciberseguridad en inglés que son fundamentales para comprender los ciberataques, las normas de seguridad informática y las certificaciones.'
 pubDate: '2024-03-06T20:27:34.133Z'
 heroImage: '/Ingles_para_Ciberseguridad.png'
 categories: ['Cursos']
-tags: ['Platzi','Incomplete']
+tags: ['Platzi','Complete']
 author: '["EloyChavezDev"]'
 ---
 Domina el uso de términos de ciberseguridad en inglés que son fundamentales para comprender los ciberataques, las normas de seguridad informática y las certificaciones. 
