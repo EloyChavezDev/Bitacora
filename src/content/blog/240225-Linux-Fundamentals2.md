@@ -1,11 +1,11 @@
 ---
 title: 'Linux Fundamentals Part 2'
-progress: '🟩🟩🟨🟨 Complete 4/8'
+progress: '🟩🟩🟩🟩 Complete 8/8'
 description: 'You will be learning how to log in to a Linux machine using SSH, how to advance your commands, file system interaction.'
 pubDate: '2024-02-25T20:27:34.123Z'
 heroImage: '/Linux Fundamentals Part 2.jpg'
 categories: ['Cursos']
-tags: ['Tryhackme','Incomplete']
+tags: ['Tryhackme','Complete']
 author: '["EloyChavezDev"]'
 ---
 Continue your learning Linux journey with part two. 
