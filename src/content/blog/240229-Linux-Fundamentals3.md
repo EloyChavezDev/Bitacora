@@ -5,7 +5,7 @@ description: 'Power-up your Linux skills and get hands-on with some common utili
 pubDate: '2024-02-29T20:27:34.123Z'
 heroImage: '/LearningLinupart3.jpg'
 categories: ['Cursos']
-tags: ['Tryhackme','Incomplete']
+tags: ['Tryhackme','Complete']
 author: '["EloyChavezDev"]'
 ---
 Welcome to part three (and the finale) of the Linux Fundamentals module. So far, throughout the series, you have got hands-on with some fundamental concepts and used some important commands. 
