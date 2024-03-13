@@ -1,7 +1,7 @@
 ---
 title: 'Windows Fundamentals 1'
 progress: '🟩🟨🟨🟨 Complete 3/10'
-description: 'In part 1 of the Windows Fundamentals module, we'll start our journey learning about the Windows desktop, the NTFS file system, UAC, the Control Panel, and more'
+description: 'In part 1 of the Windows Fundamentals module, well start our journey learning about the Windows desktop, the NTFS file system, UAC, the Control Panel, and more'
 pubDate: '2024-03-13T20:27:34.123Z'
 heroImage: '/Windows_Fundamentals_1.jpg'
 categories: ['Cursos']
