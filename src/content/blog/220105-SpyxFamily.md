@@ -2,7 +2,7 @@
 title: 'SPY x FAMILY'
 progress: '🟩🟩🟩🟩 Complete 12/12'
 description: 'At a time when all nations of the world were involved in a fierce war of information happening behind closed doors, Ostania and Westalis had been in a state of cold war against one another for decades'
-pubDate: '2024-03-21T20:27:38.124Z'
+pubDate: '2022-01-05T20:27:38.124Z'
 heroImage: '/SPYxFAMILY.png'
 categories: ['Animated']
 tags: ['Crunchyroll','Complete']

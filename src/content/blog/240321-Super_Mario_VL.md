@@ -2,7 +2,7 @@
 title: '9 Habitos Japoneses que cambiaran tu vida'
 progress: '🟩🟩🟩🟩 Complete 143/143'
 description: 'Mario es la obra magna del legendario Shigeru Miyamoto.'
-pubDate: '2024-01-02T20:27:34.133Z'
+pubDate: '2024-03-21T20:27:34.133Z'
 heroImage: '/super_mario_VL.jpg'
 categories: ['Book']
 tags: ['Historia','Complete','RBA']
